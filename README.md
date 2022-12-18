@@ -9,3 +9,6 @@ HTML is used to add text elements and create the structure of content. However, 
 # CSS & JavaScript
 
 CSS is responsible for stylings such as background, colors, layouts, spacing, and animations. On the other hand, JavaScript adds dynamic functionality such as sliders, pop-ups, and photo galleries. These three languages, in my opinion, are the fundamentals of front-end development.
+![image](https://user-images.githubusercontent.com/87490580/208290376-0bf0dc4c-6a62-4b18-8121-4351b4b92526.png)
+![image](https://user-images.githubusercontent.com/87490580/208290386-699ffafe-00b2-4973-a42b-f73b185d5695.png)
+![image](https://user-images.githubusercontent.com/87490580/208290395-5300eda9-bd00-4667-a238-13f85e0e6d7c.png)
